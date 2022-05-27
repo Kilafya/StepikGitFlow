@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">StepikGitFlow</string>
+    <string name="content">Это мой первый проект с курса на степике</string>
 </resources>
